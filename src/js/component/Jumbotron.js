@@ -2,7 +2,7 @@ import React from 'react'
 
 const Jumbotron = () => {
   return (
-    <div className='container bg-dark-subtle bg-gradient rounded mt-3 p-4 text-start'>
+    <div className='container bg-dark-subtle bg-gradient rounded p-4 text-start'>
         <h1>A Warm Welcome!</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eleifend ac purus in gravida. 
           Quisque mollis, mauris sed sagittis aliquet, leo risus sodales tellus, at luctus odio sem eget sem. 
